@@ -11,14 +11,14 @@ The rule engine has GUI interface to allow non-programmers to use this product.
 ### Automated payments
 The product will connect with your Payrix (or other second-rate payment processor) API keys to configure payments, and will integrate with your accounting software too.
 
-### Billing-as-a-Service (Baas)
+### Billing Software-as-a-Service (BSaas)
 Outsourcing micro-services is what allows app to focus on their core product. 
 
 - 3PL Central uses ShipEngine to as their shipping carrier label generator.
 - Lyft and Stripe use Twilio as their API for Voice, SMS and communication services.
 - Allbirds use Shopify as their online shopping cart.
 
-Companies need Billify.dev to out-source their automated billing services.
+Companies use Billify.dev to out-source their automated billing services.
 
 ### FAQ
 **How long does it take to get set up?**
